@@ -1,1 +1,4 @@
-{"active_gateway": "PG_CHEAP", "status": "running"}
+{
+    "active_gateway": "PG_FAST",
+    "status": "running"
+}

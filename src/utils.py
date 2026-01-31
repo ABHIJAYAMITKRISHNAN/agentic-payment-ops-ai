@@ -46,3 +46,10 @@ def append_json_log(filepath, new_entry):
         
     # 4. Write back
     save_json(filepath, data)
+
+    # Aliases for compatibility with agent.py
+def read_json(filepath):
+    return load_json(filepath)
+
+def write_json(filepath, data):
+    save_json(filepath, data)

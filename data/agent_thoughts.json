@@ -1,1 +1,681 @@
-[]
+[
+    {
+        "timestamp": "23:21:25",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:21:30",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:21:35",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:21:40",
+        "failure_rate": 0.1,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.10, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:21:45",
+        "failure_rate": 0.1,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.10, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:21:50",
+        "failure_rate": 0.1,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.10, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:21:55",
+        "failure_rate": 0.1,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.10, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:00",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:05",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:10",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:15",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:20",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:25",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:30",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:35",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:40",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:45",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:50",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:22:55",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:00",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:05",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:10",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:15",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:20",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:25",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:30",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:35",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:40",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:45",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:50",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:23:55",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:00",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:05",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:10",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:15",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:20",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:25",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:30",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:35",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:40",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:45",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:50",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:24:55",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:00",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:05",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:10",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:15",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:20",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:25",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:30",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:35",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:40",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:46",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:51",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:25:56",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:01",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:06",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:11",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:16",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:21",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:26",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:31",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:36",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:41",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:46",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:51",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:26:56",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:01",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:06",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:11",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:16",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:21",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:26",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:31",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:36",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:41",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:46",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:51",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:27:56",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:01",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:06",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:11",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:16",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:21",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:26",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:31",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:36",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:41",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:46",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:51",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:28:56",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:29:01",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:29:06",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:29:11",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:29:16",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:29:21",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    },
+    {
+        "timestamp": "23:29:26",
+        "failure_rate": 0.0,
+        "gateway_before": "PG_FAST",
+        "final_decision": "WAIT",
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.00, which is within acceptable limits.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+    }
+]
