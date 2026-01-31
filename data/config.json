@@ -1,4 +1,6 @@
 {
     "active_gateway": "PG_FAST",
-    "status": "running"
+    "status": "running",
+    "ai_disabled": false,
+    "risk_sensitivity": 20
 }
