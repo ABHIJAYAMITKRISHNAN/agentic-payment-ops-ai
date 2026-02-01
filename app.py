@@ -151,10 +151,10 @@ st.markdown("""
     .log-action { color: #fff; font-weight: 600; font-size: 1rem; margin: 4px 0; }
     .log-reason { color: #aaa; font-size: 0.9rem; line-height: 1.4; }
 
-    /* Hide Streamlit Elements */
+    /* Hide Streamlit Elements - BUT KEEP HEADER VISIBLE */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    header {visibility: hidden;}
+    /* header {visibility: hidden;}  <-- REMOVED THIS LINE TO FIX SIDEBAR */
     [data-testid="stSidebarNav"] {display: none;}
 </style>
 """, unsafe_allow_html=True)
@@ -352,7 +352,7 @@ with tab1:
 
 
 # ==========================================
-# TAB 2: AUDIT LOG (Detailed View Restored)
+# TAB 2: AUDIT LOG
 # ==========================================
 with tab2:
     st.markdown("### Decision Logic Audit")
@@ -394,7 +394,7 @@ with tab2:
 
     st.markdown("---")
     
-    # 2. DETAILED DATA TABLE (RESTORED!)
+    # 2. DETAILED DATA TABLE
     st.markdown("### Detailed Error Report History")
     
     if len(thoughts) > 0:
