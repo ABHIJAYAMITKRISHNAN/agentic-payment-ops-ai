@@ -1,5 +1,5 @@
 {
     "active_gateway": "PG_CHEAP",
     "status": "running",
-    "ai_disabled": false
+    "ai_disabled": true
 }
