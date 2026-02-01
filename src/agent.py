@@ -14,7 +14,7 @@ RECOVERY_COOLDOWN = 30 # How long to stay on Fast before probing Cheap
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # -----------------------------
-# LLM Reasoning (with fallback)
+# LLM Reasoning (Standard)
 # -----------------------------
 def ask_llm(recent_logs, failure_rate, current_gateway):
     try:
@@ -47,6 +47,7 @@ DECISION:
 
     except Exception:
         # ✅ Graceful fallback (Mock LLM Logic)
+        # Default Rule: 20% Threshold
         if failure_rate >= 0.2 and current_gateway == "PG_CHEAP":
             return f"""
 REASONING:
@@ -127,7 +128,7 @@ def run_agent_brain():
                     "failure_rate": 0.0,
                     "gateway_before": "PG_FAST",
                     "final_decision": "AUTO_RECOVERY",
-                    "agent_reasoning": "Testing primary gateway (PG_CHEAP) after 30s stability period."
+                    "agent_reasoning": "Standard protocol: Testing primary gateway (PG_CHEAP) after 30s stability period."
                 })
                 write_json("data/agent_thoughts.json", thoughts)
                 time.sleep(3) # Give it a moment to take effect
@@ -159,7 +160,7 @@ def run_agent_brain():
                 continue
             # ---------------------------------------------------------
 
-            # --- Normal Reasoning Flow (Fallback if no instant trigger) ---
+            # --- Normal Reasoning Flow ---
             llm_response = ask_llm(recent_logs, failure_rate, current_gateway)
             
             # --- Decide ---

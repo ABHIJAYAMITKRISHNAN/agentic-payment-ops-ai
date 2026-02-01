@@ -1,70 +1,124 @@
 [
     {
-        "id": "cb484269",
-        "timestamp": "02:18:43",
-        "amount": 449,
+        "id": "0a55f946",
+        "timestamp": "10:29:32",
+        "amount": 64,
         "gateway": "PG_CHEAP",
         "status": "FAILED",
         "error_code": "503_SERVICE_UNAVAILABLE",
         "error_message": "Upstream provider timed out after 3000ms"
     },
     {
-        "id": "01e3fd55",
-        "timestamp": "02:18:45",
-        "amount": 373,
-        "gateway": "PG_CHEAP",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "9d844f2c",
-        "timestamp": "02:18:47",
-        "amount": 293,
-        "gateway": "PG_CHEAP",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "2a2edfd0",
-        "timestamp": "02:18:49",
-        "amount": 426,
-        "gateway": "PG_CHEAP",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "d4ab8f52",
-        "timestamp": "02:18:51",
-        "amount": 223,
+        "id": "ee9f05bc",
+        "timestamp": "10:29:34",
+        "amount": 118,
         "gateway": "PG_CHEAP",
         "status": "FAILED",
         "error_code": "503_SERVICE_UNAVAILABLE",
         "error_message": "Upstream provider timed out after 3000ms"
     },
     {
-        "id": "309cd6ad",
-        "timestamp": "02:18:53",
-        "amount": 75,
+        "id": "a41517c7",
+        "timestamp": "10:29:36",
+        "amount": 88,
+        "gateway": "PG_CHEAP",
+        "status": "SUCCESS",
+        "error_code": null,
+        "error_message": null
+    },
+    {
+        "id": "1e69dec7",
+        "timestamp": "10:29:38",
+        "amount": 425,
+        "gateway": "PG_CHEAP",
+        "status": "SUCCESS",
+        "error_code": null,
+        "error_message": null
+    },
+    {
+        "id": "bd3a3a59",
+        "timestamp": "10:29:40",
+        "amount": 116,
+        "gateway": "PG_CHEAP",
+        "status": "SUCCESS",
+        "error_code": null,
+        "error_message": null
+    },
+    {
+        "id": "8984d3bb",
+        "timestamp": "10:29:42",
+        "amount": 182,
+        "gateway": "PG_CHEAP",
+        "status": "SUCCESS",
+        "error_code": null,
+        "error_message": null
+    },
+    {
+        "id": "14e2182a",
+        "timestamp": "10:29:44",
+        "amount": 387,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null
     },
     {
-        "id": "ef65dd66",
-        "timestamp": "02:18:55",
-        "amount": 57,
+        "id": "57f00cb2",
+        "timestamp": "10:29:46",
+        "amount": 299,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null
     },
     {
-        "id": "5c814d76",
-        "timestamp": "02:18:57",
+        "id": "f1f59b5f",
+        "timestamp": "10:29:48",
+        "amount": 470,
+        "gateway": "PG_FAST",
+        "status": "SUCCESS",
+        "error_code": null,
+        "error_message": null
+    },
+    {
+        "id": "277d1acd",
+        "timestamp": "10:29:50",
+        "amount": 347,
+        "gateway": "PG_FAST",
+        "status": "SUCCESS",
+        "error_code": null,
+        "error_message": null
+    },
+    {
+        "id": "e31066be",
+        "timestamp": "10:29:52",
+        "amount": 241,
+        "gateway": "PG_FAST",
+        "status": "SUCCESS",
+        "error_code": null,
+        "error_message": null
+    },
+    {
+        "id": "a89bd918",
+        "timestamp": "10:29:54",
+        "amount": 224,
+        "gateway": "PG_FAST",
+        "status": "SUCCESS",
+        "error_code": null,
+        "error_message": null
+    },
+    {
+        "id": "4f75e1b6",
+        "timestamp": "10:29:56",
+        "amount": 212,
+        "gateway": "PG_FAST",
+        "status": "SUCCESS",
+        "error_code": null,
+        "error_message": null
+    },
+    {
+        "id": "16f900c6",
+        "timestamp": "10:29:58",
         "amount": 359,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
@@ -72,559 +126,82 @@
         "error_message": null
     },
     {
-        "id": "aaecd157",
-        "timestamp": "02:18:59",
-        "amount": 278,
+        "id": "a3d4ea1c",
+        "timestamp": "10:30:00",
+        "amount": 357,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null
     },
     {
-        "id": "20dfd00d",
-        "timestamp": "02:19:01",
-        "amount": 120,
+        "id": "f6f1bc26",
+        "timestamp": "10:30:02",
+        "amount": 180,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null
     },
     {
-        "id": "c36156e1",
-        "timestamp": "02:19:03",
-        "amount": 45,
+        "id": "7bb22b4f",
+        "timestamp": "10:30:04",
+        "amount": 375,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null
     },
     {
-        "id": "421b7540",
-        "timestamp": "02:19:05",
-        "amount": 496,
+        "id": "de90bf5f",
+        "timestamp": "10:30:06",
+        "amount": 128,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null
     },
     {
-        "id": "84357143",
-        "timestamp": "02:19:07",
-        "amount": 478,
+        "id": "1075f1fb",
+        "timestamp": "10:30:08",
+        "amount": 91,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null
     },
     {
-        "id": "4c144902",
-        "timestamp": "02:19:10",
-        "amount": 405,
+        "id": "c9e41957",
+        "timestamp": "10:30:10",
+        "amount": 65,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null
     },
     {
-        "id": "80eafb88",
-        "timestamp": "02:19:12",
-        "amount": 293,
+        "id": "495a1ccb",
+        "timestamp": "10:30:12",
+        "amount": 152,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null
     },
     {
-        "id": "c584a62d",
-        "timestamp": "02:19:14",
-        "amount": 267,
+        "id": "e2805a83",
+        "timestamp": "10:30:14",
+        "amount": 74,
         "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null
     },
     {
-        "id": "ac42c8fb",
-        "timestamp": "02:19:16",
-        "amount": 107,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "e3a2f6b8",
-        "timestamp": "02:19:18",
-        "amount": 365,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "585da55d",
-        "timestamp": "02:19:20",
-        "amount": 132,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "e0b77d80",
-        "timestamp": "02:19:22",
-        "amount": 351,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "82820440",
-        "timestamp": "02:19:24",
-        "amount": 352,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "10a88f42",
-        "timestamp": "02:19:26",
-        "amount": 250,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "c1f05285",
-        "timestamp": "02:19:28",
-        "amount": 24,
+        "id": "c0f36b0e",
+        "timestamp": "10:30:16",
+        "amount": 212,
         "gateway": "PG_CHEAP",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "2196fcae",
-        "timestamp": "02:19:30",
-        "amount": 266,
-        "gateway": "PG_CHEAP",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "fa205f32",
-        "timestamp": "02:19:32",
-        "amount": 339,
-        "gateway": "PG_CHEAP",
-        "status": "FAILED",
-        "error_code": "503_SERVICE_UNAVAILABLE",
-        "error_message": "Upstream provider timed out after 3000ms"
-    },
-    {
-        "id": "d4575faf",
-        "timestamp": "02:19:34",
-        "amount": 354,
-        "gateway": "PG_CHEAP",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "a313952f",
-        "timestamp": "02:19:36",
-        "amount": 277,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "52749f13",
-        "timestamp": "02:19:38",
-        "amount": 298,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "14c56b7b",
-        "timestamp": "02:19:40",
-        "amount": 481,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "b093d0e4",
-        "timestamp": "02:19:42",
-        "amount": 305,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "44121277",
-        "timestamp": "02:19:44",
-        "amount": 16,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "cffac999",
-        "timestamp": "02:19:46",
-        "amount": 418,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "1e539317",
-        "timestamp": "02:19:48",
-        "amount": 481,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "b193623f",
-        "timestamp": "02:19:50",
-        "amount": 223,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "7ad4040f",
-        "timestamp": "02:19:52",
-        "amount": 46,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "224f5a7c",
-        "timestamp": "02:19:54",
-        "amount": 296,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "4c30390a",
-        "timestamp": "02:19:56",
-        "amount": 191,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "12d6b34d",
-        "timestamp": "02:19:58",
-        "amount": 17,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "e9841386",
-        "timestamp": "02:20:00",
-        "amount": 140,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "216c7db4",
-        "timestamp": "02:20:02",
-        "amount": 438,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "9d7fdf9a",
-        "timestamp": "02:20:04",
-        "amount": 424,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "e0d3cc59",
-        "timestamp": "02:20:06",
-        "amount": 279,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "108b82e4",
-        "timestamp": "02:20:08",
-        "amount": 476,
-        "gateway": "PG_CHEAP",
-        "status": "FAILED",
-        "error_code": "503_SERVICE_UNAVAILABLE",
-        "error_message": "Upstream provider timed out after 3000ms"
-    },
-    {
-        "id": "07afc01f",
-        "timestamp": "02:20:10",
-        "amount": 61,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "4b43f806",
-        "timestamp": "02:20:12",
-        "amount": 423,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "28b2f4a3",
-        "timestamp": "02:20:14",
-        "amount": 273,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "a6587f10",
-        "timestamp": "02:20:16",
-        "amount": 348,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "1197aad8",
-        "timestamp": "02:20:18",
-        "amount": 499,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "3208d059",
-        "timestamp": "02:20:20",
-        "amount": 326,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "0013446b",
-        "timestamp": "02:20:22",
-        "amount": 354,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "24945a44",
-        "timestamp": "02:20:24",
-        "amount": 245,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "276e6000",
-        "timestamp": "02:20:26",
-        "amount": 310,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "49643171",
-        "timestamp": "02:20:28",
-        "amount": 454,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "5ff5ef04",
-        "timestamp": "02:20:30",
-        "amount": 126,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "56d07b1b",
-        "timestamp": "02:20:32",
-        "amount": 143,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "651bf98f",
-        "timestamp": "02:20:34",
-        "amount": 244,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "7a87af8f",
-        "timestamp": "02:20:36",
-        "amount": 407,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "f7ad795a",
-        "timestamp": "02:20:39",
-        "amount": 326,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "2eea3747",
-        "timestamp": "02:20:41",
-        "amount": 119,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "9d54bdfb",
-        "timestamp": "02:20:43",
-        "amount": 440,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "a4b895e9",
-        "timestamp": "02:20:45",
-        "amount": 444,
-        "gateway": "PG_CHEAP",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "abe61d3e",
-        "timestamp": "02:20:47",
-        "amount": 387,
-        "gateway": "PG_CHEAP",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "622c7ab9",
-        "timestamp": "02:20:49",
-        "amount": 294,
-        "gateway": "PG_CHEAP",
-        "status": "FAILED",
-        "error_code": "503_SERVICE_UNAVAILABLE",
-        "error_message": "Upstream provider timed out after 3000ms"
-    },
-    {
-        "id": "4c93d09a",
-        "timestamp": "02:20:51",
-        "amount": 72,
-        "gateway": "PG_CHEAP",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "6765118e",
-        "timestamp": "02:20:53",
-        "amount": 10,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "f8812425",
-        "timestamp": "02:20:55",
-        "amount": 258,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "5c595d63",
-        "timestamp": "02:20:57",
-        "amount": 77,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "f878b12f",
-        "timestamp": "02:20:59",
-        "amount": 412,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "c4a22c81",
-        "timestamp": "02:21:01",
-        "amount": 155,
-        "gateway": "PG_FAST",
-        "status": "SUCCESS",
-        "error_code": null,
-        "error_message": null
-    },
-    {
-        "id": "feba7461",
-        "timestamp": "02:21:03",
-        "amount": 163,
-        "gateway": "PG_FAST",
         "status": "SUCCESS",
         "error_code": null,
         "error_message": null

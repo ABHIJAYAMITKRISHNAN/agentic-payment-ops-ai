@@ -1,205 +1,58 @@
 [
     {
-        "timestamp": "02:18:53",
-        "failure_rate": 0.4,
+        "timestamp": "10:29:43",
+        "failure_rate": 0.3333333333333333,
         "gateway_before": "PG_CHEAP",
         "final_decision": "INSTANT_RETREAT",
-        "agent_reasoning": "Probe failed. Detected 2 failures immediately after switching to Cheap. Reverting to Fast for 30s."
+        "agent_reasoning": "Probe failed. Detected 1 failures immediately after switching to Cheap. Reverting to Fast for 30s."
     },
     {
-        "timestamp": "02:18:56",
+        "timestamp": "10:29:46",
         "failure_rate": 0.29,
         "gateway_before": "PG_FAST",
         "final_decision": "WAIT",
         "agent_reasoning": "REASONING:\nThe observed failure rate is 0.29, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
     },
     {
-        "timestamp": "02:19:01",
-        "failure_rate": 0.22,
+        "timestamp": "10:29:51",
+        "failure_rate": 0.2,
         "gateway_before": "PG_FAST",
         "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.22, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.20, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
     },
     {
-        "timestamp": "02:19:06",
+        "timestamp": "10:29:56",
         "failure_rate": 0.17,
         "gateway_before": "PG_FAST",
         "final_decision": "WAIT",
         "agent_reasoning": "REASONING:\nThe observed failure rate is 0.17, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
     },
     {
-        "timestamp": "02:19:11",
-        "failure_rate": 0.14,
+        "timestamp": "10:30:01",
+        "failure_rate": 0.13,
         "gateway_before": "PG_FAST",
         "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.14, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.13, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
     },
     {
-        "timestamp": "02:19:16",
+        "timestamp": "10:30:06",
         "failure_rate": 0.12,
         "gateway_before": "PG_FAST",
         "final_decision": "WAIT",
         "agent_reasoning": "REASONING:\nThe observed failure rate is 0.12, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
     },
     {
-        "timestamp": "02:19:21",
-        "failure_rate": 0.11,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.11, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:19:26",
-        "failure_rate": 0.0,
-        "gateway_before": "PG_FAST",
-        "final_decision": "AUTO_RECOVERY",
-        "agent_reasoning": "Testing primary gateway (PG_CHEAP) after 30s stability period."
-    },
-    {
-        "timestamp": "02:19:29",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_CHEAP",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_CHEAP is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:19:34",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_CHEAP",
-        "final_decision": "INSTANT_RETREAT",
-        "agent_reasoning": "Probe failed. Detected 1 failures immediately after switching to Cheap. Reverting to Fast for 30s."
-    },
-    {
-        "timestamp": "02:19:37",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:19:42",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:19:47",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:19:52",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:19:57",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:20:02",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:20:07",
-        "failure_rate": 0.0,
-        "gateway_before": "PG_FAST",
-        "final_decision": "AUTO_RECOVERY",
-        "agent_reasoning": "Testing primary gateway (PG_CHEAP) after 30s stability period."
-    },
-    {
-        "timestamp": "02:20:10",
+        "timestamp": "10:30:11",
         "failure_rate": 0.1,
-        "gateway_before": "PG_CHEAP",
-        "final_decision": "INSTANT_RETREAT",
-        "agent_reasoning": "Probe failed. Detected 1 failures immediately after switching to Cheap. Reverting to Fast for 30s."
-    },
-    {
-        "timestamp": "02:20:13",
-        "failure_rate": 0.05,
         "gateway_before": "PG_FAST",
         "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.10, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
     },
     {
-        "timestamp": "02:20:18",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:20:23",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:20:28",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:20:33",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:20:38",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:20:43",
+        "timestamp": "10:30:16",
         "failure_rate": 0.0,
         "gateway_before": "PG_FAST",
         "final_decision": "AUTO_RECOVERY",
-        "agent_reasoning": "Testing primary gateway (PG_CHEAP) after 30s stability period."
-    },
-    {
-        "timestamp": "02:20:46",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_CHEAP",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_CHEAP is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:20:51",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_CHEAP",
-        "final_decision": "INSTANT_RETREAT",
-        "agent_reasoning": "Probe failed. Detected 1 failures immediately after switching to Cheap. Reverting to Fast for 30s."
-    },
-    {
-        "timestamp": "02:20:54",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
-    },
-    {
-        "timestamp": "02:20:59",
-        "failure_rate": 0.05,
-        "gateway_before": "PG_FAST",
-        "final_decision": "WAIT",
-        "agent_reasoning": "REASONING:\nThe observed failure rate is 0.05, which is within acceptable limits.\nCurrent gateway PG_FAST is performing adequately.\nNo immediate intervention is required.\n\nDECISION:\nWait"
+        "agent_reasoning": "Standard protocol: Testing primary gateway (PG_CHEAP) after 30s stability period."
     }
 ]

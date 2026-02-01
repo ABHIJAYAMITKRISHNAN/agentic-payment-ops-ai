@@ -1,6 +1,5 @@
 {
-    "active_gateway": "PG_FAST",
+    "active_gateway": "PG_CHEAP",
     "status": "running",
-    "ai_disabled": false,
-    "risk_sensitivity": 20
+    "ai_disabled": false
 }
